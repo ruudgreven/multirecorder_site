@@ -1,0 +1,14 @@
+header {
+    background: linear-gradient(to bottom, #E30055 0%, #E2007E 100%);
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header > img  {
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 10px
+}
